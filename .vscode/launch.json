@@ -27,7 +27,7 @@
             }
         },
         {
-            "name": ".NET Core Attach",
+            "name": ".NET Core Attach", // used for debugging
             "type": "coreclr",
             "request": "attach"
         }
